@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Milakmila/Portfolio-React/static/css/main.a017b374.css",
+    "main.js": "/Milakmila/Portfolio-React/static/js/main.73e32003.js",
+    "static/media/shoesroom.svg": "/Milakmila/Portfolio-React/static/media/shoesroom.403cf6c068f74c1efc981f959cf5fdc6.svg",
+    "static/media/figma.svg": "/Milakmila/Portfolio-React/static/media/figma.864f0471123a5fdfe22c4f1421bdbe1f.svg",
+    "static/media/Forja.png": "/Milakmila/Portfolio-React/static/media/Forja.c91ff576a71f01442539.png",
+    "static/media/fotoCamila.png": "/Milakmila/Portfolio-React/static/media/fotoCamila.7ed1bc27d5c115ff26f5.png",
+    "static/media/DuaLipa.png": "/Milakmila/Portfolio-React/static/media/DuaLipa.7c7268c6bcfed9ed6c8a.png",
+    "static/media/bootstrap-animalandia.png": "/Milakmila/Portfolio-React/static/media/bootstrap-animalandia.942a36b74c8496357bed.png",
+    "static/media/deseignthinkingForja.png": "/Milakmila/Portfolio-React/static/media/deseignthinkingForja.e074856a4030a4c28fe1.png",
+    "static/media/tools.svg": "/Milakmila/Portfolio-React/static/media/tools.f4ccffd0a081cdd37f1dfcd453506aef.svg",
+    "static/media/logo.svg": "/Milakmila/Portfolio-React/static/media/logo.452885fa056534c34f7d8594e4afb2c3.svg",
+    "index.html": "/Milakmila/Portfolio-React/index.html",
+    "main.a017b374.css.map": "/Milakmila/Portfolio-React/static/css/main.a017b374.css.map",
+    "main.73e32003.js.map": "/Milakmila/Portfolio-React/static/js/main.73e32003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a017b374.css",
+    "static/js/main.73e32003.js"
+  ]
+}
